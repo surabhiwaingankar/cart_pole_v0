@@ -1,5 +1,6 @@
 # cart_pole_v0
 <b> Overview </b>
+<br>
 This project demonstrates the implementation of a reinforcement learning algorithm to train an agent to play the Cart Pole game. The code utilizes the Stable Baselines library and OpenAI Gymnasium, providing a comprehensive framework for reinforcement learning experiments.
 <br>
 
