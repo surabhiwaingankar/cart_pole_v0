@@ -16,6 +16,7 @@ Customizable: Experiment with different algorithms, hyperparameters, and reward 
 <b>Prerequisites </b>
 <br>
 Make sure you have the following dependencies installed:
+<br>
 Stable Baselines
 <br>
 OpenAI Gym
