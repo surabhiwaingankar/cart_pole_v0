@@ -19,4 +19,4 @@ Make sure you have the following dependencies installed:
 <br>
 Stable Baselines
 <br>
-OpenAI Gym
+OpenAI Gymnasium
